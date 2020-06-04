@@ -1,4 +1,5 @@
-﻿using System;
+﻿using JG.Dancing.Core;
+using System;
 
 namespace JG.Dancing
 {
