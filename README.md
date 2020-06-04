@@ -1,5 +1,5 @@
 # JG.Dance.ForMyKids
-It is a simple interactive robot created using the technologies. Selenium / Youtube / Google Chrome.
+It is a simple interactive robot created using the technologies. C# + Selenium + Youtube + Google Chrome.
 
 It was created to have fun my own kids, there isn't a commercial purposes 
 
