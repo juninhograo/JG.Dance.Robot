@@ -7,3 +7,5 @@ You can set basically 3 keys inside of App.config file:
 - YOUTUBE_VIDEO_URL = Input here the Youtube video where the music comes from;
 - ROBOT_DANCING_URL = The URL with the dancing robot; 
 - WAIT_VIDEO_TIME = for how long time would you will keep the robot dancing
+
+<img src="https://github.com/juninhograo/JG.Dance.ForMyKids/raw/master/dance-robot.gif" />
